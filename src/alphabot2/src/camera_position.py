@@ -10,7 +10,7 @@ import math
 import smbus
 
 # ============================================================================
-# Raspi PCA9685 16-Channel PWM Servo Driver
+# Raspi PCA9685 16-Channel PWM Servo Driver 
 # ============================================================================
 
 class PCA9685:
